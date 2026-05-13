@@ -1,0 +1,13 @@
+{
+  "name": "node-snake",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "readline-sync": "^1.4.10"
+  }
+}
